@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49d7efbf-7c10-4aa2-849a-7b33f15359e3" name="Changes" comment="" />
+    <list default="true" id="49d7efbf-7c10-4aa2-849a-7b33f15359e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ejercicio3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio3/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio3/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2JWpH5tvxNB2wXTISzq7hREwybc" />
   <component name="ProjectViewState">
@@ -32,6 +40,7 @@
       <workItem from="1672203604327" duration="52000" />
       <workItem from="1672203671848" duration="99000" />
       <workItem from="1672429799640" duration="75000" />
+      <workItem from="1672445359526" duration="25000" />
     </task>
     <servers />
   </component>
